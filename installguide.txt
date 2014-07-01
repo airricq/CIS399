@@ -1,7 +1,26 @@
 ###############################################################################
-                     Ubuntu 12.04.4 Precsice Pengolin 
-		 	    Installation Guide
+                     	Ubuntu 14.04 
+		 	Installation Guide
 			
 			By: Ben Oglesby
 			    Eric Timora
 ################################################################################
+1. To begin, insert the installation media and start the computer. WHile the computer is
+booting, hold down the boot selection key. In the case of the Dell optiplex 745 this key
+is F12. After reaching the menu select the installation media from the boot selections.
+
+2. On the desktop doubleclick the InstallUbuntu 14.04 LTS icon.
+
+3.When promted select the option to include third party software, then click continue.
+
+4.If you computer already has an operating system installed on it, select the option to replace it with Ubuntu. Then click install.
+
+5. At the next screen click your current location on the map, we selected Los Angeles as it in the same time zone. When you have done this click continue.
+
+6. At the next scereen slect English (US) and English(US) for the keyboard layout.
+
+7. At the next sceen enter your name, the name you want for the computer, your desired user name, and your desired password. Select the option to require your password to log on. When you are happy with your selections click next.
+
+8.Ubuntu will now install, this could take a little while. When the installation complete, you will be prompted to restart. When this happens click resart now.
+
+9. 
