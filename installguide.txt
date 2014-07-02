@@ -23,4 +23,6 @@ is F12. After reaching the menu select the installation media from the boot sele
 
 8.Ubuntu will now install, this could take a little while. When the installation complete, you will be prompted to restart. When this happens click resart now.
 
-9. 
+
+
+Difficulties - Desktop fails to boot into Ubuntu, switched to different machine.
